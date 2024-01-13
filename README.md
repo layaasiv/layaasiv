@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Layaa Sivakumar
 
 - 🔭 I’m currently Master's student at the University of Oregon focused on Bioinformatics and Genomics.
-- 📫 Reach my by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/)
+- 📫 Reach my by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/).
 
 #### Here are some of my Bioinformatics projects:
 - [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
