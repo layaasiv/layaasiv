@@ -3,7 +3,7 @@
 - 🔭 I’m currently Master's student at the University of Oregon focused on Bioinformatics and Genomics.
 - 📫 Reach my by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/).
 
-#### Here are some of my Bioinformatics projects:
+### Here are some of my Bioinformatics projects:
 - [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
 - [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
 - [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates. 
