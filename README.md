@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi there 👋 My name is Layaa Sivakumar
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+- 🔭 I’m currently Master's student at the University of Oregon focused on Bioinformatics and Genomics.
+- 📫 How to reach me: Email me at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/)
+
+#### Here are some of my Bioinformatics projects:
+- [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
+- [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
+- [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates. 
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layaasiv&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
