@@ -6,7 +6,8 @@
 ### Here are some of my Bioinformatics projects:
 - [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
 - [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
-- [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates. 
+- [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates.
+- [Motif Mark](https://github.com/layaasiv/motif-mark): Illustration of motif locations on genomic sequences. 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layaasiv&show_icons=true&theme=dark" />
