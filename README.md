@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Layaa Sivakumar
 
-- 🔭 I’m currently Master's student at the University of Oregon focused on Bioinformatics and Genomics.
+- 🔭 I’m currently a Master's student at the University of Oregon focused on Bioinformatics and Genomics.
 - 📫 Reach me by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/).
 
 ### Here are some of my Bioinformatics projects:
