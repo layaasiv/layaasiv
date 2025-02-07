@@ -8,7 +8,7 @@
 - [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
 - [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates.
 - [Motif Mark](https://github.com/layaasiv/motif-mark): Illustration of motif locations on genomic sequences.
-- [Data Project: Obesity Prediction](https://github.com/layaasiv/obesity-prediction/tree/main): Using machine learning methods to predict weight status.
+- [Data Project - Obesity Prediction](https://github.com/layaasiv/obesity-prediction/tree/main): Using machine learning methods to predict weight status.
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layaasiv&show_icons=true&theme=dark" />
