@@ -3,12 +3,17 @@
 - 🔭 I’m a Computational Biologist with a Master's degree in Bioinformatics and Genomics.
 - 📫 Reach me by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/).
 
-### Here are some of my projects:
+### Bioinformatics projects:
 - [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
 - [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
 - [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates.
 - [Motif Mark](https://github.com/layaasiv/motif-mark): Illustration of motif locations on genomic sequences.
 - [Data Project - Obesity Prediction](https://github.com/layaasiv/obesity-prediction/tree/main): Using machine learning methods to predict weight status.
+
+### Machine Learning projects:
+- [Digital Pathology Classification](): Fine-tuning pretrained vision models for classification of pathology slides and app deployment on HuggingFace Spaces.
+- [Predictive modeling for tabular data](): Predicitng client __ based on bank data (Kaggle competition data). 
+- [Deep Learning Models](): Exploring and building DL models e.g., stable diffusion.
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layaasiv&show_icons=true&theme=dark" />
