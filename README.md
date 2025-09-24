@@ -9,6 +9,7 @@
 - [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates.
 - [Motif Mark](https://github.com/layaasiv/motif-mark): Illustration of motif locations on genomic sequences.
 - [Omics Data Analysis](https://github.com/layaasiv/omics-analysis): Exploring workflows for analysis of scRNA-seq, scATAC-seq, and spatial transcriptomics datasets.
+- [Variant Calling](https://github.com/layaasiv/variant-calling): Comparing tools used in WGS/WES and variant calling analysis workflows. Also, an opportunity to learn and use Nextflow.
 
 ### Machine Learning projects:
 - [Digital Pathology Classification](https://github.com/layaasiv/digital-pathology-classification): Fine-tuning pretrained vision models for classification of pathology slides and app deployment on HuggingFace Spaces.
