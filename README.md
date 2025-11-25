@@ -15,7 +15,6 @@
 - [Style Transfer for Digital Pathology](https://github.com/layaasiv/digital-path): Applying computer vision concepts to solve digital pathology challenges.
 - [Diffusion Models](https://github.com/layaasiv/diffusion-models): Exploring diffusion models.
 - [Digital Pathology Classification](https://github.com/layaasiv/digital-pathology-classification): Fine-tuning pretrained vision models for classification of pathology slides and app deployment on HuggingFace Spaces.
-- [Deep Learning Models](https://github.com/layaasiv/deep-learning): Exploring and building DL models.
 - [Obesity Prediction](https://github.com/layaasiv/obesity-prediction/tree/main): Using machine learning methods to predict weight status.
 - [Predictive Modeling for Tabular Data](https://github.com/layaasiv/bank-data-binary-classification): Predicitng whether a client will subscribe to a bank term deposit based on their bank data (Kaggle competition data). 
 
@@ -40,4 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [Deep Learning Models](https://github.com/layaasiv/deep-learning): Exploring and building DL models.
 -->
