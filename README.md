@@ -1,23 +1,39 @@
-## Hi there 👋 My name is Layaa Sivakumar
+# Hi, I'm Layaa 👋
 
-- 🔭 I’m a Computational Biologist with an MS in Bioinformatics and Genomics.
-- 📫 Reach me by email at layaasivakumar@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/layaasiv/).
+I'm a computational biologist and ML practitioner working at the intersection of machine learning and biomedical data. I build reproducible pipelines and apply deep learning and classical ML methods to problems in genomics, digital pathology, and single-cell biology.
 
-### Bioinformatics projects:
-- [Demultiplexer](https://github.com/layaasiv/Demultiplex): Index-based separation of samples after they had been pooled with other libraries during sequencing.
-- [QAA](https://github.com/layaasiv/QAA): RNA-seq data analysis pipeline from quality assessment to alignment.
-- [Deduper](https://github.com/layaasiv/Deduper-layaasiv): Removal of PCR duplicates.
-- [Motif Mark](https://github.com/layaasiv/motif-mark): Illustration of motif locations on genomic sequences.
-- [Omics Data Analysis](https://github.com/layaasiv/omics-analysis): Exploring workflows for analysis of scRNA-seq, scATAC-seq, and spatial transcriptomics datasets.
-- [Variant Calling](https://github.com/layaasiv/variant-calling): Comparing tools used in WGS/WES and variant calling analysis workflows. Also, an opportunity to learn and use Nextflow.
+I hold an MS in Bioinformatics and Genomics from the University of Oregon.
 
-### Machine Learning projects:
-- [Style Transfer for Digital Pathology](https://github.com/layaasiv/digital-path): Applying computer vision concepts to solve digital pathology challenges.
-- [Diffusion Models](https://github.com/layaasiv/diffusion-models): Exploring diffusion models.
-- [Digital Pathology Classification](https://github.com/layaasiv/digital-pathology-classification): Fine-tuning pretrained vision models for classification of pathology slides and app deployment on HuggingFace Spaces.
-- [Obesity Prediction](https://github.com/layaasiv/obesity-prediction/tree/main): Using machine learning methods to predict weight status.
-- [Predictive Modeling for Tabular Data](https://github.com/layaasiv/bank-data-binary-classification): Predicitng whether a client will subscribe to a bank term deposit based on their bank data (Kaggle competition data). 
+📫 [layaasivakumar@gmail.com](mailto:layaasivakumar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/layaasiv/)
 
+---
+
+## 🧰 Skills & Tools
+
+**Languages:** Python · R · Bash · SQL  
+**Machine Learning:** PyTorch · HuggingFace · scikit-learn · TensorFlow  
+**Bioinformatics:** RNA-seq · Single-cell (Seurat, Signac) · Spatial transcriptomics · Variant calling  
+**Infrastructure:** Nextflow · Docker · Git/GitHub · HPC (Slurm)
+
+---
+
+## 🔬 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Protein Localization Classifier](https://github.com/layaasiv/protein-location-cls) | Deep learning classifier for protein subcellular localization using ESM-2 embeddings and a custom PyTorch MLP | PyTorch, HuggingFace, ESM-2 |
+| [TFBS Classification & Interpretability](https://github.com/layaasiv/tfbs-classification) | Binding site classifiers with motif recovery analysis for CTCF and SP1 | scikit-learn, LS-GKM |
+| [Digital Pathology Style Transfer](https://github.com/layaasiv/he-style-transfer) | Neural style transfer for H&E staining harmonization using VGG16 and CLIP evaluation | PyTorch, CLIP |
+| [Single-Cell & Spatial Omics Workflows](https://github.com/layaasiv/omics-analysis) | End-to-end scRNA-seq, scATAC-seq, and Visium spatial transcriptomics workflows | Seurat, Signac, R |
+| [Digital Pathology Classification](https://github.com/layaasiv/digital-pathology-classification) | Fine-tuned vision models for pathology slide classification, deployed on HuggingFace Spaces | PyTorch, HuggingFace |
+| [WGS Variant Discovery Pipeline](https://github.com/layaasiv/variant-calling) | Reproducible Nextflow pipeline benchmarking aligners and variant callers | Nextflow, Docker, GATK |
+
+---
+
+## 📌 Currently
+
+🔍 Open to roles in computational biology, bioinformatics, and biomedical ML  
+🌱 Based in Canada · Open to opportunities in Toronto and beyond
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=layaasiv&show_icons=true&theme=dark" />
