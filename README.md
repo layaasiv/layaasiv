@@ -21,7 +21,7 @@ I hold an MS in Bioinformatics and Genomics from the University of Oregon.
 | Project | Description | Publication
 |---|---|---|
 | [Signal Preservation in Heterogenous Embedding Vectors](https://github.com/layaasiv/tcga-histology-embeddings) | Generating embeddings for whole slide images of cancer tissue (from TCGA) using pathology foundation model (Prov-GigaPath). Testing signal preservation when integrated with unaligned embeddings of RNA-seq profile, clinical annotations, and somatic mutation data | [Paper](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag159/8704735) |
-| [Histology Annotation with Unsupervised Segmentation](https://github.com/layaasiv/histology-unsupervised-segmentation) | Benchmarking statistical and deep learning segmentation methods were benchmarked in terms of their application to histology images | [Paper](https://pubs.acs.org/doi/10.1021/jasms.5c00216) |
+| [Histology Annotation with Unsupervised Segmentation](https://github.com/layaasiv/histology-unsupervised-segmentation) | Benchmarking statistical and deep learning segmentation methods in terms of their application to histology images | [Paper](https://pubs.acs.org/doi/10.1021/jasms.5c00216) |
 
 ---
 
