@@ -29,6 +29,7 @@ I hold an MS in Bioinformatics and Genomics from the University of Oregon.
 
 | Project | Description | Tools |
 |---|---|---|
+| [Sequencing Demultiplexer](https://github.com/layaasiv/demultiplexer) | Python CLI tool to demultiplex paired-end, dual-indexes Illumina FASTQ data | Python, pytest, GitHub Actions |
 | [Protein Localization Classifier](https://github.com/layaasiv/protein-location-cls) | Deep learning classifier for protein subcellular localization using ESM-2 embeddings and a custom PyTorch MLP | PyTorch, HuggingFace, ESM-2 |
 | [TFBS Classification & Interpretability](https://github.com/layaasiv/tfbs-classification) | Binding site classifiers with motif recovery analysis for CTCF and SP1 | scikit-learn, LS-GKM |
 | [Digital Pathology Style Transfer](https://github.com/layaasiv/he-style-transfer) | Neural style transfer for H&E staining harmonization using VGG16 and CLIP evaluation | PyTorch, CLIP |
